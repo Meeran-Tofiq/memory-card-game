@@ -1,10 +1,28 @@
+import { useState } from "react";
 import imageArr from "../imageArr";
 
-export default function Images({ playing }) {
+export default function Images({ score, setScore, highScore, setHighScore }) {
+	const [clickedBefore, setClickedBefore] = useState([]);
+
 	return (
 		<div className="images">
 			{shuffle(imageArr).map((image) => {
-				return <img src={image} />;
+				return (
+					<img
+						key={image}
+						src={image}
+						onClick={() => {
+							if (clickedBefore.includes(image)) {
+								if (score > highScore) setHighScore(score);
+								setScore(0);
+								setClickedBefore([]);
+							} else {
+								setClickedBefore([...clickedBefore, image]);
+								setScore(score + 1);
+							}
+						}}
+					/>
+				);
 			})}
 		</div>
 	);
