@@ -1,5 +1,11 @@
+import Game from "./Game";
+
 function App() {
-	return;
+	return (
+		<main>
+			<Game playing={true} />
+		</main>
+	);
 }
 
 export default App;
