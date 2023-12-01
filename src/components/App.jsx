@@ -1,9 +1,11 @@
 import Game from "./Game";
+import Footer from "./Footer";
 
 function App() {
 	return (
 		<main>
-			<Game playing={true} />
+			<Game />
+			<Footer />
 		</main>
 	);
 }
