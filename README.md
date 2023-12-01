@@ -1,8 +1,25 @@
-# React + Vite
+# Memory Card Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This web page is a memory card game application, made using the React framework.
 
-Currently, two official plugins are available:
+The game is very simple. You click on any image you haven't clicked before. every tiem you click an image you haven't clicked before, you get a new point. If you, however, click an image that you've already clicked bfore, then your score resets. If you score before losing was higher than you current high score, it will be replaced by the new highest score.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Motivation
+
+This project was made as an assingment for The Odin Project, specifically for the React section. It was intended to give me practice with using React's components and the State Hook provided by react.
+
+## How to use
+
+You can click this [link](https://meek-axolotl-f71025.netlify.app/) here to access the site!
+
+# Credits
+
+Link to all artists whose pictures were used for making this game:
+
+[Haberdoedas](https://unsplash.com/@haberdoedas)
+[Kelly Sikkema](https://unsplash.com/@kellysikkema)
+[Nik](https://unsplash.com/@helloimnik)
+[Rocco Dipoppa](https://unsplash.com/@rhox)
+[Valentino Montironi](https://unsplash.com/@coptus)
+[Yazid N](https://unsplash.com/@mzynasx)
+[Yulia Matvienko](https://unsplash.com/@yuliamatvienko)
