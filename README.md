@@ -16,10 +16,10 @@ You can click this [link](https://meek-axolotl-f71025.netlify.app/) here to acce
 
 Link to all artists whose pictures were used for making this game:
 
-[Haberdoedas](https://unsplash.com/@haberdoedas)
-[Kelly Sikkema](https://unsplash.com/@kellysikkema)
-[Nik](https://unsplash.com/@helloimnik)
-[Rocco Dipoppa](https://unsplash.com/@rhox)
-[Valentino Montironi](https://unsplash.com/@coptus)
-[Yazid N](https://unsplash.com/@mzynasx)
+[Haberdoedas](https://unsplash.com/@haberdoedas)<br>
+[Kelly Sikkema](https://unsplash.com/@kellysikkema)<br>
+[Nik](https://unsplash.com/@helloimnik)<br>
+[Rocco Dipoppa](https://unsplash.com/@rhox)<br>
+[Valentino Montironi](https://unsplash.com/@coptus)<br>
+[Yazid N](https://unsplash.com/@mzynasx)<br>
 [Yulia Matvienko](https://unsplash.com/@yuliamatvienko)
